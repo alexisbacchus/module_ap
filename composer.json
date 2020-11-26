@@ -1,5 +1,5 @@
 {
-    "name": "billz/raspap-webgui",
+    "name": "alexisbacchus/module_ap",
     "description": "Simple AP setup and wifi mangement for Debian-based devices",
     "license": "GPL-3.0",
     "homepage": "https://raspap.com/",
