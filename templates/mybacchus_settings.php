@@ -29,7 +29,6 @@
           <br><br>
           <input type="submit">
         </form>
-        <?php $status->showMessages(); ?>
         <?php echo CSRFTokenFieldTag() ?>
           <!-- Tab panes -->
           <div class="tab-content">

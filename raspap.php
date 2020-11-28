@@ -1,7 +1,7 @@
 <?php
 
 $config = array(
-    'admin_user' => 'admin',
+    'admin_user' => 'mybacchus',
     'admin_pass' => '$2y$10$YKIyWAmnQLtiJAy6QgHQ.eCpY4m.HCEbiHaTgN6.acNC6bDElzt.i'
 );
 
