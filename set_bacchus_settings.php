@@ -1,4 +1,4 @@
-<?php
+ <?php
 
 $wifissid = $_POST["wifi_ssid"];
 $wifipsk = $_POST["wifi_psk"];
