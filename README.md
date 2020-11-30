@@ -13,3 +13,5 @@ sudo visudo
 
 get bacchus_settings.sh
 ```
+
+probably restart wpa_supplicant
