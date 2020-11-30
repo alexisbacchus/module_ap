@@ -569,5 +569,6 @@ function _install_raspap() {
     _prompt_install_adblock
     _prompt_install_openvpn
     _patch_system_files
+    _move_bacchus_file
     _install_complete
 }
