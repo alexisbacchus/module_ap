@@ -167,6 +167,7 @@ function _update_system_packages() {
 
 function _move_bacchus_file() {
     mv /home/var/www/html/bacchus_settings.sh /usr/local/bin
+    mv /home/var/www/html/bacchus_uninstall_ap/sh /usr/local/bin
 }
 
 # Fetch required installer functions
