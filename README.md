@@ -10,4 +10,6 @@ sudo chmod 777 raspbian.sh
 
 sudo visudo
 # %www-data ALL=(ALL) NOPASSWD: /usr/local/bin/bacchus_settings.sh
+
+get bacchus_settings.sh
 ```

@@ -213,7 +213,7 @@ function _uninstall_complete() {
 function _remove_raspap() {
     _config_uninstallation
     _check_for_backups
-    _remove_raspap_service
+#    _remove_raspap_service
     _restore_networking
     _remove_raspap_directories
     _remove_installed_packages

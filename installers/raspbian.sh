@@ -165,6 +165,10 @@ function _update_system_packages() {
     sudo apt-get update || _install_error "Unable to update package list"
 }
 
+function _move_bacchus_file() {
+    mv /home/var/www/html/bacchus_settings.sh /usr/local/bin
+}
+
 # Fetch required installer functions
 if [ "${install_cert:-}" = 1 ]; then
     source="mkcert"
